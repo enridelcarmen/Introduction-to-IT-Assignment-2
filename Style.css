@@ -177,3 +177,21 @@ a {
   display: block;
 
 }
+
+.pic15	 {
+    width: 200px;
+    height: 265px;
+  border:2px solid black;
+  margin: 1px auto;
+  display: block;
+
+}
+
+.pic16	 {
+    width: 400px;
+    height: 300px;
+  border:2px solid black;
+  margin: 1px auto;
+  display: block;
+
+}
