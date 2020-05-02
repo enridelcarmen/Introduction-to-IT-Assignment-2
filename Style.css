@@ -127,3 +127,53 @@ a {
   display: block;
 
 }
+
+
+.pic9 {
+  width: 280px;
+  margin: 1px auto;
+  display: block;
+
+
+}
+
+.pic10 {
+  width: 280px;
+  border:2px solid black;
+  margin: 1px auto;
+  display: block;
+
+
+}
+
+.pic11 {
+  width: 450px;
+  border:2px solid black;
+  margin: 1px auto;
+  display: block;
+
+}
+
+.pic12 {
+  width: 150px;
+  border:2px solid black;
+  margin: 1px auto;
+  display: block;
+
+}
+
+.pic13	 {
+  height: 350px;
+  border:2px solid black;
+  margin: 1px auto;
+  display: block;
+
+}
+.pic14	 {
+    width: 407px;
+    height: 108px;
+  border:2px solid black;
+  margin: 1px auto;
+  display: block;
+
+}
