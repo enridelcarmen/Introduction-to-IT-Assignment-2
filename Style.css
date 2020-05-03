@@ -222,3 +222,12 @@ a {
   display: block;
 
 }
+
+.pic20	 {
+    width: 500px;
+    height: 707px;
+  border:2px solid black;
+  margin: 1px auto;
+  display: block;
+
+}
